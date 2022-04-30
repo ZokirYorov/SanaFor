@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#sekundomer{
+    width: 200px;
+    margin: 0 auto;
+    font-size: 50px;
+}
+
+#date{
+    width: 200px;
+    margin: 0 auto;
+    font-size: 40px;
+}
+#birth{
+    width: 300px;
+    margin: 0 auto;
+    font-size: 40px;
+}
